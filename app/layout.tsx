@@ -10,8 +10,10 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  title: "HustlrHub - Safe Microjobs for Teens",
-  description: "Connect teens with verified local microjobs and opportunities",
+  title: "Liga Acadêmica de Direito Internacional",
+  icons: {
+    icon: "/logo.png", // or "/icon.png"
+  },
     generator: 'v0.dev'
 }
 
