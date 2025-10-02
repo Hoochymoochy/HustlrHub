@@ -73,7 +73,7 @@ export default function LandingPage() {
           { title: "Escopo", content: "Nosso eixo? Direitos Humanos e Internacionais. Nosso playground? Direito Internacional, Direitos Humanos e Geopolítica. Exploramos como a globalização molda os arcabouços jurídicos atuais e os sistemas de justiça do futuro. 🌍⚖️" },
           { title: "Repercussão", content: "Por meio da colaboração, fomentamos a pesquisa e o debate sobre Direito Internacional, diplomacia, governança climática e todas as fronteiras onde o direito encontra as mudanças globais. Não estamos apenas observando o futuro se desenrolar — estamos escrevendo-o." },
           { title: "Objetivos", content: <ul className="list-disc list-inside space-y-2"><li>Estudar criticamente o Direito Internacional Público e Privado</li><li>Analisar o impacto da globalização na justiça</li><li>Organizar debates acadêmicos e publicar pesquisas</li><li>Capacitar os alunos para moldar o futuro jurídico</li></ul> },
-          { title: "Linha de Pesquisa", content: <p><strong>International Law & New Global Challenges:</strong> From geopolitical conflicts to climate change treaties, we dissect the legal frameworks shaping global survival.</p> },
+          { title: "Linha de Pesquisa", content: <p><strong>Direito Internacional e Novos Desafios Globais: </strong> De conflitos geopolíticos a tratados sobre mudanças climáticas, dissecamos as estruturas jurídicas que moldam a sobrevivência global.</p> },
         ].map((item, i) => (
           <Card key={i} className="bg-white/80 shadow-lg border-0 rounded-2xl hover:shadow-2xl transition-shadow duration-300">
             <CardHeader>
